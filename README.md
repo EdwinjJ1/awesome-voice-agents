@@ -201,6 +201,7 @@ OpenAI Whisper is the most powerful open-source speech recognition model, but do
 
 | Name | Stars | Description | Notes |
 |------|-------|-------------|-------|
+| [loudkit](https://github.com/loudreader/loudkit) | ![GitHub Repo stars](https://badgen.net/github/stars/loudreader/loudkit) | On-device TTS engine: 28 voices in 10 languages, voice cloning from about 10 s of audio, native Python, Swift, Go, Rust and TypeScript SDKs, plus an OpenAI-compatible speech endpoint and an MCP server for agents. Apache-2.0. | 端侧 TTS 引擎：10 种语言 28 种音色，约 10 秒音频即可克隆声音；提供原生多语言 SDK、OpenAI 兼容语音接口和 MCP 服务，便于接入语音智能体。 |
 | [MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) | ![GitHub Repo stars](https://badgen.net/github/stars/OpenMOSS/MOSS-TTS) | Open-source speech and sound generation model family from MOSI.AI / OpenMOSS (Fudan). Apache-2.0. | 复旦 OpenMOSS 开源的语音与音效生成模型家族 |
 | [Miso TTS](https://github.com/MisoLabsAI/MisoTTS) | ![GitHub Repo stars](https://badgen.net/github/stars/MisoLabsAI/MisoTTS) | 8B-parameter highly emotive text-to-speech model. | 8B 参数高表现力情感 TTS |
 | [Confucius4-TTS](https://github.com/netease-youdao/Confucius4-TTS) | ![GitHub Repo stars](https://badgen.net/github/stars/netease-youdao/Confucius4-TTS) | NetEase Youdao multilingual, cross-lingual zero-shot TTS engine. | 网易有道多语种零样本 TTS |
